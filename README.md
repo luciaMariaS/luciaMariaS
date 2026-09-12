@@ -35,18 +35,7 @@ Sou apaixonada por **desenvolvimento de software**, com foco especial em **front
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-6A0DAD?style=for-the-badge&logo=javascript&logoColor=00C896)
-![TypeScript](https://img.shields.io/badge/TypeScript-00C896?style=for-the-badge&logo=typescript&logoColor=6A0DAD)
-![Angular](https://img.shields.io/badge/Angular-6A0DAD?style=for-the-badge&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-00C896?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-6A0DAD?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-00C896?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6A0DAD?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-00C896?style=for-the-badge&logo=sass&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6A0DAD?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00C896?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-6A0DAD?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00C896?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,angular,php,laravel,html,css,sass,mysql,git,figma,docker&theme=dark&perline=6" />
 
 </div>
 
@@ -64,8 +53,7 @@ Sou apaixonada por **desenvolvimento de software**, com foco especial em **front
 | Instituição | Curso | Período |
 |---|---|---|
 | IFES - Campus Alegre | Análise e Desenvolvimento de Sistemas (TADS) | 3º ano |
-| IFES - Campus Alegre | Redes de Computadores (RDC) | 3º ano |
-| Escola Pública de Muqui | Ensino Fundamental/Médio | Concluído |
+| Escola Pública de Muqui | Redes de Computadores (RDC) | Concluido |
 
 <br/>
 
@@ -115,18 +103,7 @@ I'm passionate about **software development**, with a special focus on **front-e
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-6A0DAD?style=for-the-badge&logo=javascript&logoColor=00C896)
-![TypeScript](https://img.shields.io/badge/TypeScript-00C896?style=for-the-badge&logo=typescript&logoColor=6A0DAD)
-![Angular](https://img.shields.io/badge/Angular-6A0DAD?style=for-the-badge&logo=angular&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-00C896?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-6A0DAD?style=for-the-badge&logo=laravel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-00C896?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6A0DAD?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-00C896?style=for-the-badge&logo=sass&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6A0DAD?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00C896?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-6A0DAD?style=for-the-badge&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00C896?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,angular,php,laravel,html,css,sass,mysql,git,figma,docker&theme=dark&perline=6" />
 
 </div>
 
@@ -144,8 +121,7 @@ I'm passionate about **software development**, with a special focus on **front-e
 | Institution | Course | Period |
 |---|---|---|
 | IFES - Campus Alegre | Systems Analysis and Development (TADS) | 3rd year |
-| IFES - Campus Alegre | Computer Networks (RDC) | 3rd year |
-| Public School of Muqui | Elementary/High School | Completed |
+|Public School of Muqui | Computer Networks (RDC) | Completed|
 
 <br/>
 
