@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:00C896&height=200&section=header&text=Lúcia%20Maria&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20Front-end%20|%20Estudante%20de%20ADS%20&%20Redes&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12&height=200&section=header&text=Lúcia%20Maria&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Angular%20%26%20Laravel&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="#-versão-em-português">🇧🇷 Português</a>
 &nbsp;|&nbsp;
@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=luciaMariaS&color=6a0dad&style=for-the-badge&label=PROFILE+VIEWS)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Estudante+de+ADS+%7C+IFES+Campus+Alegre;Desenvolvedora+Angular+%2B+Laravel;Sempre+aprendendo+algo+novo+%F0%9F%92%9A)
 
 </div>
 
@@ -18,55 +18,58 @@
 
 ### 👩‍💻 Sobre Mim
 
-Olá! Meu nome é **Lúcia Maria**, sou estudante do **Instituto Federal do Espírito Santo (IFES)**, cursando **Análise e Desenvolvimento de Sistemas (TADS)** e **Redes de Computadores (RDC)**, ambos no **3º ano**.
+Olá! Sou a **Lúcia Maria**, estudante de **Análise e Desenvolvimento de Sistemas** no **IFES – Campus Alegre**, atualmente cursando o **3º ano do TADS**. Tenho grande interesse na área de **Desenvolvimento de Software**, com foco especial em construir interfaces modernas e sistemas completos, unindo **Angular** no frontend e **Laravel (PHP)** no backend.
 
-Sou apaixonada por **desenvolvimento de software**, com foco especial em **front-end** e na construção de interfaces bonitas, funcionais e bem estruturadas. Atualmente estou aprofundando meus estudos em **Angular, PHP e Laravel**, unindo front-end e back-end para criar aplicações completas.
-
-- 🎓 Campus: **IFES Campus Alegre**
-- 🏫 Formação básica: **Escola Pública de Muqui**
-- 📍 Localização: **Muqui, Espírito Santo, Brasil**
-- 🔭 Focada atualmente em: **Angular, PHP e Laravel**
-- 🧪 Envolvida em atividades e projetos do IFES, incluindo o **Laboratório Maker**
-- 💬 Projeto em destaque: **Caparaó Conecta**
+- 🎓 Curso: Análise e Desenvolvimento de Sistemas (TADS – 3º ano)
+- 🏫 Campus: IFES – Campus Alegre
+- 📍 Localização: Muqui, Espírito Santo, Brasil
+- 🔭 Estudando atualmente: **Angular**, **PHP** e **Laravel**
+- 🛠️ Trabalho com ambientes **Dockerizados** e prototipação no **Figma**
 
 <br/>
 
-### 🚀 Competências & Tecnologias
+### 💜💚 Competências
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,angular,php,laravel,html,css,sass,mysql,git,figma,docker&theme=dark&perline=6" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-8A2BE2?style=for-the-badge&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-2ECC71?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-8A2BE2?style=for-the-badge&logo=laravel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2ECC71?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2ECC71?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,php,laravel,mysql,git,docker,figma&theme=dark" />
 
 </div>
 
 <br/>
 
-### 💼 Experiência Prática & Projetos
+### 🚀 Experiência Prática & Projetos
 
-- 🧩 **Atuação no Laboratório Maker** — participação em atividades práticas e projetos de tecnologia dentro do IFES Campus Alegre.
-- 🌐 **Caparaó Conecta** — plataforma desenvolvida com foco em conectar oportunidades da região do Caparaó, unindo front-end em Angular e back-end em Laravel.
+- 🧩 **Caparaó Conecta** — Plataforma de empregos e cursos, desenvolvida com **Angular** no frontend e **Laravel** no backend, focada em conectar pessoas da região do Caparaó a oportunidades de trabalho e capacitação.
+- 🖥️ Atuação em projetos práticos do **IFES – Campus Alegre**, aplicando conceitos de desenvolvimento de sistemas em situações reais.
+- 🎨 Uso de **Figma** para prototipação de interfaces antes da implementação em código.
+- 🐳 Desenvolvimento em ambientes **Dockerizados**, garantindo padronização entre ambientes de desenvolvimento.
 
 <br/>
 
 ### 🎓 Formação Acadêmica
 
-| Instituição | Curso | Período |
+| Instituição | Curso | Situação |
 |---|---|---|
-| IFES - Campus Alegre | Análise e Desenvolvimento de Sistemas (TADS) | 3º ano |
-| Escola Pública de Muqui | Redes de Computadores (RDC) | Concluido |
-
-<br/>
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=luciaMariaS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=6A0DAD&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luciaMariaS&theme=radical&hide_border=true&background=0D1117&ring=6A0DAD&fire=00C896&currStreakLabel=00C896" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaMariaS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=c9d1d9" width="45%"/>
-
-</div>
+| IFES – Campus Alegre | Análise e Desenvolvimento de Sistemas (TADS) | 3º ano — em andamento |
+| Escola Pública de Muqui | Ensino Médio / Rede de Computadores (RDC) | Concluído |
 
 <br/>
 
@@ -74,67 +77,69 @@ Sou apaixonada por **desenvolvimento de software**, com foco especial em **front
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Luciamariaesouzah@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00C896?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciaMariaS)
+[![Gmail](https://img.shields.io/badge/Gmail-2ECC71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Luciamariaesouzah@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciaMariaS)
 
 </div>
 
 ---
-<br/>
 
 ## 🇺🇸 English Version
 
 ### 👩‍💻 About Me
 
-Hi there! My name is **Lúcia Maria**, a student at the **Federal Institute of Espírito Santo (IFES)**, currently pursuing **Systems Analysis and Development (TADS)** and **Computer Networks (RDC)**, both in their **3rd year**.
+Hi! I'm **Lúcia Maria**, a **Systems Analysis and Development** student at **IFES – Campus Alegre**, currently in my **3rd year of the TADS program**. I'm passionate about **Software Development**, focusing on building modern interfaces and full-stack systems by combining **Angular** on the frontend with **Laravel (PHP)** on the backend.
 
-I'm passionate about **software development**, with a special focus on **front-end**, building beautiful, functional, and well-structured interfaces. I'm currently deepening my skills in **Angular, PHP, and Laravel**, combining front-end and back-end to build complete applications.
-
-- 🎓 Campus: **IFES Campus Alegre**
-- 🏫 Basic education: **Public School of Muqui**
-- 📍 Location: **Muqui, Espírito Santo, Brazil**
-- 🔭 Currently focused on: **Angular, PHP and Laravel**
-- 🧪 Involved in IFES activities and projects, including the **Maker Lab**
-- 💬 Featured project: **Caparaó Conecta**
+- 🎓 Program: Systems Analysis and Development (TADS – 3rd year)
+- 🏫 Campus: IFES – Campus Alegre
+- 📍 Location: Muqui, Espírito Santo, Brazil
+- 🔭 Currently studying: **Angular**, **PHP** and **Laravel**
+- 🛠️ Working with **Dockerized** environments and **Figma** prototyping
 
 <br/>
 
-### 🚀 Skills & Technologies
+### 💜💚 Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,angular,php,laravel,html,css,sass,mysql,git,figma,docker&theme=dark&perline=6" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-8A2BE2?style=for-the-badge&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-2ECC71?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-8A2BE2?style=for-the-badge&logo=laravel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2ECC71?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2ECC71?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,php,laravel,mysql,git,docker,figma&theme=dark" />
 
 </div>
 
 <br/>
 
-### 💼 Practical Experience & Projects
+### 🚀 Practical Experience & Projects
 
-- 🧩 **Maker Lab participation** — hands-on activities and technology projects at IFES Campus Alegre.
-- 🌐 **Caparaó Conecta** — platform built to connect opportunities across the Caparaó region, combining an Angular front-end with a Laravel back-end.
+- 🧩 **Caparaó Conecta** — A jobs and courses platform built with **Angular** on the frontend and **Laravel** on the backend, focused on connecting people from the Caparaó region to job and training opportunities.
+- 🖥️ Involvement in hands-on projects at **IFES – Campus Alegre**, applying systems development concepts to real scenarios.
+- 🎨 Using **Figma** to prototype interfaces before implementing them in code.
+- 🐳 Development in **Dockerized** environments, ensuring consistency across development setups.
 
 <br/>
 
 ### 🎓 Academic Background
 
-| Institution | Course | Period |
+| Institution | Program | Status |
 |---|---|---|
-| IFES - Campus Alegre | Systems Analysis and Development (TADS) | 3rd year |
-|Public School of Muqui | Computer Networks (RDC) | Completed|
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=luciaMariaS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=6A0DAD&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=luciaMariaS&theme=radical&hide_border=true&background=0D1117&ring=6A0DAD&fire=00C896&currStreakLabel=00C896" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciaMariaS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=c9d1d9" width="45%"/>
-
-</div>
+| IFES – Campus Alegre | Systems Analysis and Development (TADS) | 3rd year — in progress |
+| Public School of Muqui | High School / Computer Networks (RDC) | Completed |
 
 <br/>
 
@@ -142,13 +147,15 @@ I'm passionate about **software development**, with a special focus on **front-e
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Luciamariaesouzah@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00C896?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciaMariaS)
+[![Gmail](https://img.shields.io/badge/Gmail-2ECC71?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Luciamariaesouzah@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luciaMariaS)
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:6A0DAD&height=100&section=footer"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12&height=100&section=footer"/>
 
 </div>
