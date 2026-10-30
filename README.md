@@ -28,9 +28,3 @@ Sou uma pessoa apaixonada por tecnologia e desenvolvimento de software, sempre e
 * **[Nome do Projeto 2](link-do-projeto-ou-repositorio)**: Breve descrição do seu segundo projeto de destaque.
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luciaMariaS&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-</div>
