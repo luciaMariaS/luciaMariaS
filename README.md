@@ -10,20 +10,21 @@ Sou uma pessoa apaixonada por tecnologia e desenvolvimento de software, sempre e
 
 ### 💻 Minhas Tecnologias e Ferramentas
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<p align="center">
+  <img alt="HTML5" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Angular" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img alt="PHP" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="Git" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</p>
 </div>
 
 ---
 
 ### 🚀 Meus Principais Projetos
 
-* **[API REST - Confeitaria por Encomenda](link-do-seu-repositorio-aqui)**: API REST desenvolvida como projeto acadêmico para gerenciar o fluxo de pedidos de uma confeitaria focada em produtos sob encomenda. Permite o controle de clientes, catálogo de produtos customizáveis e gestão de status dos pedidos.
+* **[API REST - Confeitaria por Encomenda](https://github.com/luciaMariaS/confeitaria-api.git)**: API REST desenvolvida como projeto acadêmico para gerenciar o fluxo de pedidos de uma confeitaria focada em produtos sob encomenda. Permite o controle de clientes, catálogo de produtos customizáveis e gestão de status dos pedidos.
 * **[Nome do Projeto 2](link-do-projeto-ou-repositorio)**: Breve descrição do seu segundo projeto de destaque.
 
 ---
@@ -31,5 +32,5 @@ Sou uma pessoa apaixonada por tecnologia e desenvolvimento de software, sempre e
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luciaMariaS&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
 </div>
