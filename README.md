@@ -1,7 +1,7 @@
 <h1 align="center">Olá, mundo! 👋 Me chamo Lúcia Maria</h1>
 
 <p align="center">
-  <b>Desenvolvedora Front-End & Estudante de Análise e Desenvolvimento de Sistemas</b><br>
+  <b>Desenvolvedora Fullstack & Estudante de Análise e Desenvolvimento de Sistemas</b><br>
   Sempre em busca de aprender coisas novas e construir projetos criativos e funcionais. 🚀
 </p>
 
